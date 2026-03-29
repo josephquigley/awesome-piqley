@@ -1,4 +1,10 @@
-# Awesome Piqley [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <img src="logo.svg" alt="Awesome Piqley" width="600">
+</p>
+
+<p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+</p>
 
 A curated list of [piqley](https://github.com/josephquigley/piqley-cli) plugins and resources.
 
