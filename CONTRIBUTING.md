@@ -7,7 +7,7 @@ Thank you for your interest in contributing!
 To add your plugin to the list, open a pull request with the following:
 
 1. Add your plugin under the **Plugins** section in `README.md`.
-2. Use the format: `- [plugin-name](link) - Short description. (macOS, Linux x86, Linux ARM)`
+2. Use the format: `- [plugin-name](link) - Short description. (Platforms: macOS, Linux x86, Linux ARM)`
 3. Keep the description concise (one sentence).
 4. Place your entry in alphabetical order within its category.
 
