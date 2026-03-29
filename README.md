@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <img src="https://awesome.re/badge.svg" alt="Awesome">
 </p>
 
 A curated list of [piqley](https://github.com/josephquigley/piqley-cli) plugins and resources.
