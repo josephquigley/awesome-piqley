@@ -2,10 +2,6 @@
   <img src="logo.svg" alt="Awesome Piqley" width="600">
 </p>
 
-<p align="center">
-  <img src="https://awesome.re/badge.svg" alt="Awesome">
-</p>
-
 A curated list of [piqley](https://github.com/josephquigley/piqley-cli) plugins and resources.
 
 piqley is a plugin-driven CLI for photographer workflows: organizing, tagging, editing, and publishing photos from the command line.
