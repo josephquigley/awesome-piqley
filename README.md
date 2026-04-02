@@ -20,7 +20,7 @@ _No plugins published yet. Check back soon._
 
 - [piqley CLI](https://github.com/josephquigley/piqley-cli) - The core CLI tool.
 - [PiqleyCore](https://github.com/josephquigley/piqley-core) - Shared types and constants.
-- [PiqleyPluginSDK](https://github.com/josephquigley/piqley-plugin-sdk) - SDK for building piqley plugins in Swift.
+- [PiqleyPluginSDK](https://github.com/josephquigley/piqley-plugin-sdk) - SDK and reference schemas for building piqley plugins in any language.
 
 ## Contributing
 
